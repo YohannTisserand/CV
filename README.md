@@ -10,7 +10,7 @@ March 2021 - June 2021</br>
 *Makers Academy*</br>
 10% acceptation rate / fast-paced learning bootcamp
 
-#### Experience
+<h3>Experience</h3>
 
 2015 - 2019</br>
 *Chief*</br>
@@ -18,14 +18,14 @@ Working as a chief in a French well-known restaurant. I was used to work under p
 
 2010 - 2013</br>
 *Internet provider IT*</br>
-Understanding and solving customer's internet issue was my daily activity. Emptahy helped me sometimes, I owe that guy.
+Understanding and solving customer's internet issue was my daily activity. Empathy helped me sometimes, I owe that guy.
 
 2007 - 2009</br>
 *Administrative Assistant*</br>
 I was a human liar detector. Literaly.
 
 2001 - 2007</br>
-*Commando soldier*
+*Commando soldier*</br>
 Enrolled in the French Air Force. High sense of righteousness and rigor required.
 
 
