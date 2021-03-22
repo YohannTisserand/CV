@@ -6,8 +6,8 @@ I'm fuelled by the need to help to improve people's life, and I like to contempl
 
 ### Education
 
-March 2021 - June 2021
-*Makers Academy*
-10% acceptation chances / fast-paced learning bootcamp
+March 2021 - June 2021\s\s
+*Makers Academy*\s\s
+10% acceptation rate / fast-paced learning bootcamp
 
 ### Experience
