@@ -29,7 +29,7 @@ Understanding and solving customer's internet issues were my daily activity. Dem
 
 2007 - 2009</br>
 *Administrative Assistant*</br>
-I was a human lie detector. Literally. Our company was tyred specialised, I was in charge of our carrier daily report across the country and I had to report to my final client why the goods haven't been delivered in time. A strong logical was necessary.
+I was a human lie detector. Literally. Our company was tyred specialised, I was in charge of our carrier daily report across the country and I had the opportunity to report to my final client why the goods haven't been delivered in time. A strong logical was necessary.
 
 2001 - 2007</br>
 *Commando soldier*</br>
