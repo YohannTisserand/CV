@@ -1,14 +1,21 @@
 ## Yohann Tisserand
 
-French born, I have spent all my life in France. A few days after my 36th birthday, I realised that I wanted something new, something really challenging. I took the decision to move abraod in a country I've never even visited. England. I had two goals : settle down and make one of my dream come true which was becoming a **Full Stack Developer**. 
+**Full Stack Developer**
 
-I take great pride in helping to improve people's life, and I like to contemplate the direct benefits of my work for them. Tech industry allow me to conciliate that need and my passion about solving daily problems/puzzles.
+French-born, I have spent all my life in France. A few days after my 36th birthday, I realised that I wanted something new, something really challenging. I took the decision to move abroad to a country I've never even visited. England. I had two goals: settle down and make one of my dream come true which was becoming a **Full-Stack Developer**. 
+
+I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.
 
 ### Education
 
 March 2021 - June 2021</br>
 *Makers Academy*</br>
 10% acceptation rate / fast-paced learning bootcamp
+
+<h3>Skills</h3>
+
+**Self learner**</br>
+I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
 
 <h3>Experience</h3>
 
@@ -18,14 +25,14 @@ Working as a chief in a French well-known restaurant. I was used to work under p
 
 2010 - 2013</br>
 *Internet provider IT*</br>
-Understanding and solving customer's internet issue was my daily activity. Empathy helped me sometimes, I owe that guy.
+Understanding and solving customer's internet issues were my daily activity. Demonstrate empathy was critical.
 
 2007 - 2009</br>
 *Administrative Assistant*</br>
-I was a human liar detector. Literaly.
+I was a human lie detector. Literally. Our company was tyred specialised, I was in charge of our carrier daily report across the country and I had to report to my final client why the goods haven't been delivered in time. A strong logical was necessary.
 
 2001 - 2007</br>
 *Commando soldier*</br>
-Enrolled in the French Air Force. High sense of righteousness and rigor required.
+Enrolled in the French Air Force. A high sense of righteousness and rigour required.
 
 
