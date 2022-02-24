@@ -16,7 +16,7 @@ March 2021 - June 2021</br>
 
 **Tech Skills**</br>
 OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow<br>
-SQL databases, Ruby on Rails, JavaScript, React
+SQL databases, Ruby on Rails, JavaScript, React, mongoDB
 
 **Self/fast learner**</br>
 I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
