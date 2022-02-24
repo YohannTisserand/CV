@@ -11,6 +11,8 @@ I am a Full-Stack Developer, focused on producing excellent code quality. My cur
 
 I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.
 
+***
+
 <h3><a name="skills">Skills</h3>
 
 **Tech Skills**</br>
@@ -21,6 +23,8 @@ SQL databases, Ruby on Rails, JavaScript, React, mongoDB
 I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
+
+***
 
 <h3><a name="education">Education</h3>
 
@@ -38,6 +42,7 @@ I Subscribed to the internet provider I was working for to get a better understa
 **Communication skills**</br>
 Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
 
+***
 
 <h3><a name="experience">Experience</h3>
 
@@ -68,6 +73,8 @@ September 2001 to April 2009</br>
 - Learned strong work ethics, being corporate, adhering to a schedule
 - Taught me to focus on the task that has to be done
 
+***
+
 <h3><a name="interests">Interests</h3>
   
 <h4>Coding Challenges</h4>
@@ -80,5 +87,5 @@ Running - Workout
 Indoor plants
   
 <h3><a name="contact">Contact</h3>
-Email: tisserand.yohann@gmail.com
-Phone number: 07561 762280
+Email: tisserand.yohann@gmail.com<br>
+Phone number: 07561 762280<br>
