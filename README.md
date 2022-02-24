@@ -19,7 +19,6 @@ I have always been fascinated by technology. I am convinced that can help people
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
 
-
 **Hardworker**</br>
 Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, who is not afraid to work on a problem over my spare time
 
@@ -82,9 +81,13 @@ Running - Workout
 <h4>Gardening</h4>
 Indoor plants
   
+***  
+  
 <h3><a name="languages">Languages</h3>
 French: Native<br>
 English: C1 level
+  
+***  
   
 <h3><a name="contact">Contact</h3>
 Email: tisserand.yohann@gmail.com<br>
