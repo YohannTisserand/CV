@@ -14,25 +14,55 @@ March 2021 - June 2021</br>
 
 <h3>Skills</h3>
 
-**Self learner**</br>
+**Tech Skills**</br>
+OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow
+SQL databases, Ruby on Rails, JavaScript, React
+
+**Self/fast learner**</br>
 I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
+
+As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
+
+**Hardworker**</br>
+Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, who is not afraid to work on a problem over my spare time
+
+**Curiosity**</br>
+I am always trying to improve myself with the field I am working on.
+I Subscribed to the internet provider I was working for to get a better understanding about how it works to help the customers.
+
+**Communication skills**</br>
+Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
+
 
 <h3>Experience</h3>
 
-2015 - 2019</br>
-*Chief*</br>
-Working as a chief in a French well-known restaurant. I was used to work under pressure, responsible for the daily stocks. Organization was my best friend.
+December 2019 to June 2020</br>
+*German Gymnasium, London — Runner*</br>
+- Coached a new team member once experienced
+- Improved the delivery time between the waiters and customers
+- Demonstrated high-level confidence by being constantly available
 
-2010 - 2013</br>
-*Internet provider IT*</br>
-Understanding and solving customer's internet issues were my daily activity. Demonstrate empathy was critical.
+February 2015 to August 2018</br>
+*Hippopotamus, France — Commis Chief*</br>
+- Assisting the head chief to run the cooking station efficiently 
+- Demonstrated adaptability by running three different stations
 
-2007 - 2009</br>
-*Administrative Assistant*</br>
-I was a human lie detector. Literally. Our company was tyred specialised, I was in charge of our carrier daily report across the country and I had the opportunity to report to my final client why the goods haven't been delivered in time. A strong logical was necessary.
+May 2012 to September 2014</br>
+*Free, France — Customer Relationship Management*</br>
+- Educated customers about their internet equipments
+- Solved customer’s network issues if a physical tech wasn’t required - Improved customer’s satisfaction by being empathetic
 
-2001 - 2007</br>
-*Commando soldier*</br>
-Enrolled in the French Air Force. A high sense of righteousness and rigour required.
+June 2010 to January 2012</br>
+*Ewals Cargo Care, France — Customer Relationship Management*</br>
+- Resolved conflicts between our supplier and their customers
+- Evaluated and researched the missing deliveries each days
+- Improved client’s satisfaction, persuading the carrier to deliver in time
+
+September 2001 to April 2009</br>
+*French Army Air Force, France — Fighting Corps, Commando*</br>
+- Learned strong work ethics, being corporate, adhering to a schedule
+- Taught me to focus on the task that has to be done
+
+
 
 
