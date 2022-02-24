@@ -11,7 +11,7 @@ I am a Full-Stack Developer, focused on producing excellent code quality. My cur
 
 I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.
 
-<h3><a name="skills"></h3>
+<h3><a name="skills">Skills</h3>
 
 **Tech Skills**</br>
 OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow<br>
@@ -22,7 +22,7 @@ I have always been fascinated by technology. I am convinced that can help people
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
 
-### <a name="education">
+<h3><a name="education">Education</h3>
 
 March 2021 - June 2021</br>
 *Makers Academy*</br>
@@ -68,7 +68,7 @@ September 2001 to April 2009</br>
 - Learned strong work ethics, being corporate, adhering to a schedule
 - Taught me to focus on the task that has to be done
 
-<h3><a name="interests"></h3>
+<h3><a name="interests">Interests</h3>
   
 *Coding Challenges*
 Codewars
@@ -79,6 +79,6 @@ Running - Workout
 *Gardening*
 Indoor plants
   
-<h3><a name="contact"></h3>
+<h3><a name="contact">Contact</h3>
 Email: tisserand.yohann@gmail.com
 Phone number: 07561 762280
