@@ -1,18 +1,17 @@
 ## Yohann Tisserand
 
-**Full Stack Developer**
+***
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-French-born, I have spent all my life in France. A few days after my 36th birthday, I realised that I wanted something new, something really challenging. I took the decision to move abroad to a country I've never even visited. England. I had two goals: settle down and make one of my dream come true which was becoming a **Full-Stack Developer**. 
+
+I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry.
+***
+
+**Full Stack Developer**
 
 I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.
 
-### Education
-
-March 2021 - June 2021</br>
-*Makers Academy*</br>
-10% acceptation rate / fast-paced learning bootcamp
-
-<h3>Skills</h3>
+<h3><a name="skills"></h3>
 
 **Tech Skills**</br>
 OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow<br>
@@ -22,6 +21,12 @@ SQL databases, Ruby on Rails, JavaScript, React, mongoDB
 I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
+
+### <a name="education">
+
+March 2021 - June 2021</br>
+*Makers Academy*</br>
+10% acceptation rate / fast-paced learning bootcamp
 
 **Hardworker**</br>
 Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, who is not afraid to work on a problem over my spare time
@@ -34,7 +39,7 @@ I Subscribed to the internet provider I was working for to get a better understa
 Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
 
 
-<h3>Experience</h3>
+<h3><a name="experience"></h3>
 
 December 2019 to June 2020</br>
 *German Gymnasium, London — Runner*</br>
@@ -63,6 +68,17 @@ September 2001 to April 2009</br>
 - Learned strong work ethics, being corporate, adhering to a schedule
 - Taught me to focus on the task that has to be done
 
+<h3><a name="interests"></h3>
+  
+*Coding Challenges*
+Codewars
 
-
-
+*Sport*
+Running - Workout
+  
+*Gardening*
+Indoor plants
+  
+<h3><a name="contact"></h3>
+Email: tisserand.yohann@gmail.com
+Phone number: 07561 762280
