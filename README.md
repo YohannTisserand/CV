@@ -15,7 +15,7 @@ March 2021 - June 2021</br>
 <h3>Skills</h3>
 
 **Tech Skills**</br>
-OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow
+OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow<br>
 SQL databases, Ruby on Rails, JavaScript, React
 
 **Self/fast learner**</br>
