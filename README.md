@@ -2,13 +2,9 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
-
-<i>I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry.</i>
-***
-
 <h2>Full Stack Developer</h2>
 
-I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.
+<i>I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry. I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.</i>
 
 ***
 
