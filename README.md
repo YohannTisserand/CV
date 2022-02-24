@@ -70,13 +70,13 @@ September 2001 to April 2009</br>
 
 <h3><a name="interests">Interests</h3>
   
-*Coding Challenges*
+<h4>Coding Challenges</h4>
 Codewars
 
-*Sport*
+<h4>Sport</h4>
 Running - Workout
   
-*Gardening*
+<h4>Gardening</h4>
 Indoor plants
   
 <h3><a name="contact">Contact</h3>
