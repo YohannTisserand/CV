@@ -7,7 +7,7 @@
 I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry.
 ***
 
-**Full Stack Developer**
+*Full Stack Developer*
 
 I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.
 
