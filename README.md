@@ -1,6 +1,5 @@
 ## Yohann Tisserand
 
-***
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 
