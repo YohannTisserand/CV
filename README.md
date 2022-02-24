@@ -39,7 +39,7 @@ I Subscribed to the internet provider I was working for to get a better understa
 Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
 
 
-<h3><a name="experience"></h3>
+<h3><a name="experience">Experience</h3>
 
 December 2019 to June 2020</br>
 *German Gymnasium, London — Runner*</br>
