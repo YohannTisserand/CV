@@ -24,13 +24,6 @@ I have always been fascinated by technology. I am convinced that can help people
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
 
-***
-
-<h3><a name="education">Education</h3>
-
-March 2021 - June 2021</br>
-*Makers Academy*</br>
-10% acceptation rate / fast-paced learning bootcamp
 
 **Hardworker**</br>
 Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, who is not afraid to work on a problem over my spare time
@@ -41,6 +34,14 @@ I Subscribed to the internet provider I was working for to get a better understa
 
 **Communication skills**</br>
 Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
+
+***
+
+<h3><a name="education">Education</h3>
+
+March 2021 - June 2021</br>
+*Makers Academy*</br>
+10% acceptation rate / fast-paced learning bootcamp
 
 ***
 
