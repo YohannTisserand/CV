@@ -3,7 +3,7 @@
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
 
 
-I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry.
+<i>I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry.</i>
 ***
 
 <h2>Full Stack Developer</h2>
