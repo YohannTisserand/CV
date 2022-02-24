@@ -10,23 +10,23 @@
 
 <h3><a name="skills">Skills</h3>
 
-**Tech Skills**</br>
+**- Tech Skills -**</br>
 OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow<br>
 SQL databases, Ruby on Rails, JavaScript, React, mongoDB
 
-**Self/fast learner**</br>
+**- Self/fast learner -**</br>
 I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
 
-**Hardworker**</br>
+**- Hardworker -**</br>
 Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, who is not afraid to work on a problem over my spare time
 
-**Curiosity**</br>
+**- Curiosity -**</br>
 I am always trying to improve myself with the field I am working on.
 I Subscribed to the internet provider I was working for to get a better understanding about how it works to help the customers.
 
-**Communication skills**</br>
+**- Communication skills -**</br>
 Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
 
 ***
@@ -34,7 +34,7 @@ Driven by empathy and as a good listener, I helped my team to provide first-clas
 <h3><a name="education">Education</h3>
 
 March 2021 - June 2021</br>
-*Makers Academy*</br>
+**Makers Academy**</br>
 10% acceptation rate / fast-paced learning bootcamp
 
 ***
