@@ -1,6 +1,6 @@
 ## Yohann Tisserand
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) |
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Languages](#languages) | [Contact](#contact) |
 
 <h2>Full Stack Developer</h2>
 
@@ -81,6 +81,10 @@ Running - Workout
   
 <h4>Gardening</h4>
 Indoor plants
+  
+<h3><a name="languages">Languages</h3>
+French: Native<br>
+English: C1 level
   
 <h3><a name="contact">Contact</h3>
 Email: tisserand.yohann@gmail.com<br>
