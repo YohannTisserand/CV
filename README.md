@@ -4,7 +4,7 @@
 
 <h2>Full Stack Developer</h2>
 
-<i>I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech universe. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry. I take great pride in helping improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to conciliate that need and my passion for solving daily problems/puzzles.</i>
+<i>I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech industry. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry. I take great pride in helping to improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to balance that need and my passion for solving daily problems/puzzles.</i>
 
 ***
 
@@ -20,7 +20,7 @@ I have always been fascinated by technology. I am convinced that can help people
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
 
 **- Hardworker -**</br>
-Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, who is not afraid to work on a problem over my spare time
+Achieved a high-pace bootcamp, working 16h a day to reach my goals. Very implicated, I am not afraid to work on a problem over my spare time
 
 **- Curiosity -**</br>
 I am always trying to improve myself with the field I am working on.
