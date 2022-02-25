@@ -1,6 +1,6 @@
 ## Yohann Tisserand
 
-[Projects](projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Languages](#languages) | [Contact](#contact) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Languages](#languages) | [Contact](#contact) |
 
 <h2>Full Stack Developer</h2>
 
