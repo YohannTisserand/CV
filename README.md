@@ -11,6 +11,7 @@
 <h3><a name="skills">Skills</h3>
 
 **- Tech Skills -**</br>
+
 OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programming, Remote working, Git workflow<br>
 SQL databases, Ruby on Rails, JavaScript, React, mongoDB
 
