@@ -1,12 +1,19 @@
 ## Yohann Tisserand
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Languages](#languages) | [Contact](#contact) |
+[Projects](projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Languages](#languages) | [Contact](#contact) |
 
 <h2>Full Stack Developer</h2>
 
 <i>I am a Full-Stack Developer, focused on producing excellent code quality. My curiosity and will to learn new things led me to the tech industry. Learned HTML / CSS / Python on my own a few years ago. I was looking for a high-quality school in order to work in that industry. I take great pride in helping to improve people's lives, and I like to contemplate the direct benefits of my work for them. The Tech industry allows me to balance that need and my passion for solving daily problems/puzzles.</i>
 
 ***
+
+<h3><a name="projects">Projects</h3>
+  
+ **Project** | **Description** | **Tech**
+------------|-----------------|-----------------
+**[Acebook](https://github.com/YohannTisserand/acebook-team-smiley-face)** | Full Stack Facebook clone, built with Ruby on Rails, TDD'd, PostgreSQL database | Ruby on Rails, postgreSQL, PG, RSpec, Capybara, Bootstrap
+**Cyber-playground**<br>[front-end](https://github.com/YohannTisserand/cyber_playground)<br>[back-end](https://github.com/YohannTisserand/cyber_playground-server) | Final project were we learned React and JavaScript | React, Node.js, JavaScript, mongoDB, Express
 
 <h3><a name="skills">Skills</h3>
 
