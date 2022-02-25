@@ -31,6 +31,7 @@ I am always trying to improve myself with the field I am working on.
 I Subscribed to the internet provider I was working for to get a better understanding about how it works to help the customers.
 
 **- Communication skills -**</br>
+
 I helped my team to provide first-class customer service as a former customer manager. Strong empathy and listening skills were required, and those skills helped me to be effective as a team member at Makers.
 
 ***
@@ -39,6 +40,7 @@ I helped my team to provide first-class customer service as a former customer ma
 
 March 2021 - June 2021</br>
 **Makers Academy**</br>
+
 10% acceptation rate / fast-paced learning bootcamp
 
 ***
