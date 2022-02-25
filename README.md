@@ -15,7 +15,7 @@ OOP, SRP, TDD, RESTful APIs, Encapsulation, XP/Agile methodology Pair-Programmin
 SQL databases, Ruby on Rails, JavaScript, React, mongoDB
 
 **- Self/fast learner -**</br>
-I have always been fascinated by technology. I am convinced that can help people in their life every day. A few years ago, I wanted to find out how a website works in its foundation, I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
+I have always been fascinated by technology. I am convinced that can help people in their life every day. I've learnt the Html and CSS basics for the purpose to build my own website. I really loved what I was doing, I wanted to go further, so I installed Linux (Debian, ArchLinux) as a main OS. I had the desire to deeply understand the interaction between the user and the machine through a terminal.
 
 As I am adaptable, I have learned the very basics of JavaScript within a week to help my team to build a project.
 
@@ -27,7 +27,7 @@ I am always trying to improve myself with the field I am working on.
 I Subscribed to the internet provider I was working for to get a better understanding about how it works to help the customers.
 
 **- Communication skills -**</br>
-Driven by empathy and as a good listener, I helped my team to provide first-class customer service.
+I helped my team to provide first-class customer service as a former customer manager. Strong empathy and listening skills were required, and those skills helped me to be effective as a team member at Makers.
 
 ***
 
