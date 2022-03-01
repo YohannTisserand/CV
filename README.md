@@ -13,7 +13,7 @@
  **Project** | **Description** | **Tech**
 ------------|-----------------|-----------------
 **[Acebook](https://github.com/YohannTisserand/acebook-team-smiley-face)** | Full Stack Facebook clone, built with Ruby on Rails, TDD'd, PostgreSQL database | Ruby on Rails, postgreSQL, PG, RSpec, Capybara, Bootstrap
-**Cyber-playground**<br>[front-end](https://github.com/YohannTisserand/cyber_playground)<br>[back-end](https://github.com/YohannTisserand/cyber_playground-server) | Final project were we learned React and JavaScript to build an app to help the users to find some beautiful places to shoot their photos | React, Node.js, JavaScript, mongoDB, Express, GoogleMaps API, Jasmine
+**Cyber-playground**<br>[front-end](https://github.com/YohannTisserand/cyber_playground)<br>[back-end](https://github.com/YohannTisserand/cyber_playground-server) | Final project were we learned React and JavaScript to build an app to help the users to find some beautiful places to shoot their photos | React, Node.js, mongoDB, Express, GoogleMaps API, Jasmine
 
 <h3><a name="skills">Skills</h3>
 
